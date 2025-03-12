@@ -7,7 +7,7 @@
 
 ## Установка и сборка
 ```sh
-git clone https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/UniquePtr.git
+git clone https://github.com/katchkatcher/UniquePtr-implementation.git
 cd UniquePtr
 mkdir build && cd build
 cmake ..
